@@ -1,0 +1,11 @@
+OLD MASTER ACCOUNTS
+
+No real template
+Just has the the columns if they exist
+
+Column Format
+Account# Amount# AccountName
+
+EX FILE:
+1000101 150000 HolderA
+1234567 50000 HolderB

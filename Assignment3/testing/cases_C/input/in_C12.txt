@@ -1,0 +1,7 @@
+login
+agent
+createacct
+1110101
+Alan
+withdraw
+close

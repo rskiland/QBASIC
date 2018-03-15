@@ -1,0 +1,8 @@
+Welcome to QBASIC. Please login.
+>> Machine or Agent login?
+>> Withdraw, Deposit, Transfer, Createacct, Deleteacct, or Logout?
+>> Please enter the new account number:
+>> Please enter the new account name:
+>> Invalid Command. Name cannot start or end with a space.
+Please enter the new account name:
+>> 

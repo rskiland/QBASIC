@@ -1,0 +1,17 @@
+
+EOS 0000000 000 0000000 ***
+_____________________________________________________
+TRANSACTION SUMMARY
+
+DELETE THIS PART (Line above seperates real input vs doc)
+MUST END IN EOS AT ALL TIMES, FILL IN EMPTY SPACE WITH TRANSACTIONS
+IF YOU DONT FOLLOW FORMAT, THE PROGRAM WILL CRASH
+
+Column Format
+Command AccountTo# Amount# AccountFrom# AccountName
+
+EXAMPLE FILE:
+WDR 1234567 40000 0000000 ***
+NEW 8000008 000 0000000 HolderD
+EOS 0000000 000 0000000 ***
+

@@ -1,0 +1,6 @@
+login
+machine
+deposit
+1000101
+-1000
+close

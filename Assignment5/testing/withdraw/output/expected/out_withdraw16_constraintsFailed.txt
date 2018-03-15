@@ -1,0 +1,2 @@
+WDR 1000000 61000 0000000 ***
+Invalid Withdraw. Account 1000000 doesn't have enough funds to withdraw $610.0.

@@ -1,0 +1,9 @@
+login
+agent
+withdraw
+9191002
+50000000
+withdraw
+9191002
+60000000
+close

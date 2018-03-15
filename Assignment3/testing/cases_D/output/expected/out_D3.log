@@ -1,0 +1,12 @@
+Welcome to QBASIC. Please login.
+>> Machine or Agent login?
+>> Withdraw, Deposit, Transfer, Createacct, Deleteacct, or Logout?
+>> Please enter the account number:
+>> Invalid Command. Account Number does not exist.
+Please enter the account number:
+>> Please enter the account name:
+>> Account successfully deleted.
+Withdraw, Deposit, Transfer, Createacct, Deleteacct, or Logout?
+>> Logout Successful.
+Welcome to QBASIC. Please login.
+>> 

@@ -1,0 +1,2 @@
+Failed Transaction: TST
+Invalid transaction file. Transaction command doesn't exist.

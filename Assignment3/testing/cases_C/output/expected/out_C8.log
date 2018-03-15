@@ -1,0 +1,8 @@
+Welcome to QBASIC. Please login.
+>> Machine or Agent login?
+>> Withdraw, Deposit, Transfer, Createacct, Deleteacct, or Logout?
+>> Please enter the new account number:
+>> Please enter the new account name:
+>> Invalid Command. Name must be between 3 to 30 characters.
+Please enter the new account name:
+>> 

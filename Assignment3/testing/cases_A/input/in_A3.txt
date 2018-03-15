@@ -1,0 +1,9 @@
+withdraw
+deposit
+transfer
+createacct
+deleteacct
+login
+machine
+close
+

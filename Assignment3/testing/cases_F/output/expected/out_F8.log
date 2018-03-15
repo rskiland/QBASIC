@@ -1,0 +1,8 @@
+Welcome to QBASIC. Please login.
+>> Machine or Agent login?
+>> Withdraw, Deposit, Transfer, Createacct, Deleteacct, or Logout?
+>> Please enter the account number to withdraw from:
+>> Please enter the amount you want to withdraw:
+>> Invalid Command. Over Agent withdraw limit.
+Please enter the amount you want to withdraw:
+>> 

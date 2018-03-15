@@ -1,0 +1,7 @@
+login
+agent
+deposit
+1000101
+1000
+logout
+close

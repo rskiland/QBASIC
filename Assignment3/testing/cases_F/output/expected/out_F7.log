@@ -1,0 +1,12 @@
+Welcome to QBASIC. Please login.
+>> Machine or Agent login?
+>> Withdraw, Deposit, Transfer, or Logout?
+>> Please enter the account number to withdraw from:
+>> Please enter the amount you want to withdraw:
+>> Withdrawing $500.0 from account 1000101
+Withdraw, Deposit, Transfer, or Logout?
+>> Please enter the account number to withdraw from:
+>> Please enter the amount you want to withdraw:
+>> Withdrawing $600.0 from account 1000101
+Withdraw, Deposit, Transfer, or Logout?
+>> 

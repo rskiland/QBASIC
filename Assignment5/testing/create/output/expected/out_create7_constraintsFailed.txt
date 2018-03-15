@@ -1,0 +1,2 @@
+NEW 1000000 000 0000000 Test7B
+Invalid Account Creation. Account number 1000000 already exists.

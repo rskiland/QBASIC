@@ -1,0 +1,7 @@
+login
+agent
+transfer
+1000101
+1234567
+100000000
+close

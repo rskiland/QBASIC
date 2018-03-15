@@ -1,0 +1,10 @@
+login
+agent
+deposit
+1110111
+500000
+deposit
+1234567
+250000
+logout
+close

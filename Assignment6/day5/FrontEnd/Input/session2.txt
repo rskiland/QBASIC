@@ -1,0 +1,7 @@
+login
+agent
+withdraw
+1110111
+199900
+logout
+close

@@ -1,0 +1,7 @@
+login
+agent
+createacct
+8001008
+HolderF
+logout
+close

@@ -1,0 +1,8 @@
+login
+machine
+transfer
+1000101
+1234567
+5000
+logout
+close

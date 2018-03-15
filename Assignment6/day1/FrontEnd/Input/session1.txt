@@ -1,0 +1,10 @@
+login
+agent
+createacct
+1000101
+HolderA
+createacct
+1234567
+HolderB
+logout
+close

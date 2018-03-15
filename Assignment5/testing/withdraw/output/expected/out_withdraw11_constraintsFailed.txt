@@ -1,0 +1,2 @@
+WDR 1000000 99 0000000 ***
+Invalid Withdraw of $0.99. Must be between $1.00 and $999999.99.

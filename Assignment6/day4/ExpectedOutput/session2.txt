@@ -1,0 +1,10 @@
+login
+agent
+createacct
+5678761
+HolderG
+withdraw
+8001008
+150000
+logout
+close

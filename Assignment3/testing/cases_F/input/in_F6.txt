@@ -1,0 +1,6 @@
+login
+machine
+withdraw
+1000101
+110000
+close

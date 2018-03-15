@@ -1,0 +1,8 @@
+Welcome to QBASIC. Please login.
+>> Machine or Agent login?
+>> Withdraw, Deposit, Transfer, Createacct, Deleteacct, or Logout?
+>> Please enter the account number to deposit to:
+>> Please enter the amount you want to deposit:
+>> Depositing $1100.0 to account 1000101
+Withdraw, Deposit, Transfer, Createacct, Deleteacct, or Logout?
+>> 

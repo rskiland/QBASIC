@@ -1,0 +1,2 @@
+Failed Transaction: WDD
+Invalid transaction file. Transaction command doesn't exist.

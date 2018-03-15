@@ -1,0 +1,10 @@
+login
+machine
+deposit
+1000101
+80000
+deposit
+1230321
+20000
+logout
+close

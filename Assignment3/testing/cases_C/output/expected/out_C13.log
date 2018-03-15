@@ -1,0 +1,9 @@
+Welcome to QBASIC. Please login.
+>> Machine or Agent login?
+>> Withdraw, Deposit, Transfer, Createacct, Deleteacct, or Logout?
+>> Please enter the new account number:
+>> Please enter the new account name:
+>> Account successfully created.
+Withdraw, Deposit, Transfer, Createacct, Deleteacct, or Logout?
+>> Please enter the account number to deposit to:
+>> 

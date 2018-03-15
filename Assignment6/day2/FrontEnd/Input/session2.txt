@@ -1,0 +1,7 @@
+login
+machine
+deposit
+9009009
+10000
+logout
+close

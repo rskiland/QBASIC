@@ -1,0 +1,2 @@
+Last Transaction: NEW 1000000 000 0000000 Test4
+Invalid transaction file. Last transaction is not an EOS transaction.

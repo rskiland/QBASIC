@@ -1,0 +1,13 @@
+NEW MASTER ACCOUNTS
+
+No real template
+Just has the the columns if they exist
+Shows updated account information from transaction summary
+
+Column Format
+Account# Amount# AccountName
+
+EX FILE:
+1000101 150000 HolderA
+1234567 10000 HolderB
+8000008 000 HolderD
